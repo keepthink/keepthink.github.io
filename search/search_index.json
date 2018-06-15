@@ -22,8 +22,33 @@
         }, 
         {
             "location": "/todo/", 
-            "text": "", 
+            "text": "WORK-24/52(\u5468)\n\n\nTODO\n\n\n\n\n[x] \u5468\u8fb9\u641c\u7d22\u9875\u9762\u9a8c\u8bc1\u53ef\u4ee5\u8f93\u5165\u5e76\u9690\u85cf\n\n\n[ ] QA\u63d0\u6d4bBug\n\n\n[ ] \u62e8\u6253\u53f7\u7801,\u5f53\u84dd\u7259\u672a\u8fde\u63a5\u7684\u65f6\u5019.\u4e0d\u53ef\u70b9\u51fb\u53f7\u7801\n\n\n\n\nDONE\n\n\n\n\n[x] \u771f\u673a\u9a8c\u8bc1\u8f93\u5165\u6cd5\u53ef\u4ee5\u542f\u52a8\u641c\u7d22\u5e76\u9690\u85cf\n\n\n\n\nCHECK\n\n\nTEMP\n\n\n\u5220\u9664:resource.mgr\n\nCommon  MainPacage", 
             "title": "TODO"
+        }, 
+        {
+            "location": "/todo/#work-2452", 
+            "text": "", 
+            "title": "WORK-24/52(\u5468)"
+        }, 
+        {
+            "location": "/todo/#todo", 
+            "text": "[x] \u5468\u8fb9\u641c\u7d22\u9875\u9762\u9a8c\u8bc1\u53ef\u4ee5\u8f93\u5165\u5e76\u9690\u85cf  [ ] QA\u63d0\u6d4bBug  [ ] \u62e8\u6253\u53f7\u7801,\u5f53\u84dd\u7259\u672a\u8fde\u63a5\u7684\u65f6\u5019.\u4e0d\u53ef\u70b9\u51fb\u53f7\u7801", 
+            "title": "TODO"
+        }, 
+        {
+            "location": "/todo/#done", 
+            "text": "[x] \u771f\u673a\u9a8c\u8bc1\u8f93\u5165\u6cd5\u53ef\u4ee5\u542f\u52a8\u641c\u7d22\u5e76\u9690\u85cf", 
+            "title": "DONE"
+        }, 
+        {
+            "location": "/todo/#check", 
+            "text": "", 
+            "title": "CHECK"
+        }, 
+        {
+            "location": "/todo/#temp", 
+            "text": "\u5220\u9664:resource.mgr \nCommon  MainPacage", 
+            "title": "TEMP"
         }, 
         {
             "location": "/codeclip/", 
