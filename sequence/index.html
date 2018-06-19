@@ -72,6 +72,15 @@
     <a class="current" href="./">sequence</a>
     <ul class="subnav">
             
+    <li class="toctree-l2"><a href="#git">git 相关操作</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#1">1.提示没有权限的时候</a></li>
+        
+        </ul>
+    
+
     </ul>
 	    </li>
           
@@ -112,7 +121,17 @@
           <div role="main">
             <div class="section">
               
-                
+                <blockquote>
+<p>这个文档的目的是:将一些日常操作程序化.并最终模版化且可复用</p>
+</blockquote>
+<h2 id="git">git 相关操作</h2>
+<h4 id="1">1.提示没有权限的时候</h4>
+<ol>
+<li>ssh-agent -s</li>
+<li>eval $(ssh-agent -s)</li>
+<li>ssh-add ~/.ssh/id_rsa_one</li>
+<li>ssh-add ~/.ssh/id_rsa_two</li>
+</ol>
               
             </div>
           </div>
